@@ -21,4 +21,8 @@
   <ban name="дед Энигмыч" reason="200PING,NO CHinese" accountid="STEAM_1:0:561222382" />
   <ban name="夏树" reason="打人" accountid="STEAM_1:0:539457449" />
   <ban name="飞腚超人" reason="拿枪打人" accountid="STEAM_1:1:594311956" />
+  <ban name="春天" reason="炸堆" accountid="STEAM_1:1:201282581" />
+  <ban name="你干嘛嗨嗨you" reason="乱打人" accountid="STEAM_1:0:720479607" />
+  <ban name="和尚" reason="作弊" address="112.37.160.10" />
+  <ban name="和尚" reason="作弊" accountid="STEAM_1:1:469858008" />
 </bannedplayers>
