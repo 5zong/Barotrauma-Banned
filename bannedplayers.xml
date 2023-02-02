@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bannedplayers>
+  <ban name="WDNMD" reason="乱改反应堆" accountid="STEAM_1:0:209672972" />
+  <ban name="Top Gun Maverick" reason="200PING,no Chinese" accountid="STEAM_1:0:539144800" />
+  <ban name="Dalton K." reason="200PING" address="206.174.116.114" />
+  <ban name="Dalton K." reason="200PING" accountid="STEAM_1:1:43113008" />
+  <ban name="oloof" reason="精神内鬼" accountid="STEAM_1:1:163667081" />
+  <ban name="过户哥" reason="炸反应堆" address="123.232.150.92" />
+  <ban name="过户哥" reason="炸反应堆" accountid="STEAM_1:1:522731263" />
+  <ban name="宇轩" reason="改线" address="135.180.243.185" />
+  <ban name="宇轩" reason="改线" accountid="STEAM_1:0:438708945" />
+  <ban name="浩宇" reason="改线" accountid="STEAM_1:0:178966950" />
+  <ban name="грю" reason="200PING" accountid="STEAM_1:0:627929501" />
+  <ban name="волосатая пиявка" reason="200PING,no Chinese" accountid="STEAM_1:0:519417103" />
+  <ban name="雯静" reason="仓鼠服封禁" accountid="STEAM_1:0:102699151" />
+  <ban name="KoreaHunter" reason="仓鼠服封禁" accountid="STEAM_1:0:221423648" />
+  <ban name="福" reason="ServerMessage.BannedBy~[initiator]=麦乐鸡块" accountid="STEAM_1:1:91288449" />
+  <ban name="吊打你们" reason="ServerMessage.BannedBy~[initiator]=麦乐鸡块" address="119.13.87.234" />
+  <ban name="吊打你们" reason="ServerMessage.BannedBy~[initiator]=麦乐鸡块" accountid="STEAM_1:1:749392479" />
+  <ban name="纳税" reason="打人" accountid="STEAM_1:1:182319287" />
+  <ban name="дед Энигмыч" reason="200PING,NO CHinese" accountid="STEAM_1:0:561222382" />
+  <ban name="夏树" reason="打人" accountid="STEAM_1:0:539457449" />
+  <ban name="飞腚超人" reason="拿枪打人" accountid="STEAM_1:1:594311956" />
+</bannedplayers>
