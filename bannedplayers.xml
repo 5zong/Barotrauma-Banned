@@ -41,7 +41,6 @@
   <ban name="thegoatslayer" reason="打人，炸反应堆，高ping老外" accountid="STEAM_1:1:554737781" />
   <ban name="vlnny118" reason="200PING,No Chinese" accountid="STEAM_1:0:461862050" />
   <ban name="Krawly" reason="炸反应堆" accountid="STEAM_1:0:174314092" />
-  <ban name="ni th re" reason="不说理由做了很多UEX(炸药）" accountid="STEAM_1:1:641569758" />
   <ban name="小刻" reason="乱打AI" accountid="STEAM_1:0:541267169" />
   <ban name="西宫硝子" reason="打人" accountid="STEAM_1:1:593715532" />
   <ban name="电子眼轩轩" reason="乱扔东西" accountid="STEAM_1:1:714707378" />
@@ -60,4 +59,13 @@
   <ban name="小巨人" reason="道德值非常低" accountid="STEAM_1:1:609850303" expirationtime="638113957090000000" />
   <ban name="纯真丁一郎" reason="窒死毒剂杀人" address="101.83.121.55" />
   <ban name="纯真丁一郎" reason="窒死毒剂杀人" accountid="STEAM_1:0:541215636" />
+  <ban name="Cykalism" reason="打AI" address="111.22.176.105" />
+  <ban name="Cykalism" reason="打AI" accountid="STEAM_1:1:532832630" />
+  <ban name="Tysm" reason="乱动反应堆" address="112.38.97.49" />
+  <ban name="Tysm" reason="乱动反应堆" accountid="STEAM_1:0:606463461" />
+  <ban name="雾远邀青树丶" reason="动反应堆" accountid="STEAM_1:1:502580466" />
+  <ban name="xxx嘻嘻嘻xx" reason="动船" address="111.163.156.21" />
+  <ban name="xxx嘻嘻嘻xx" reason="动船" accountid="STEAM_1:0:615845453" />
+  <ban name="正在偷吃电弧星" reason="拿AI东西" address="103.129.252.187" />
+  <ban name="正在偷吃电弧星" reason="拿AI东西" accountid="STEAM_1:1:561726728" />
 </bannedplayers>
