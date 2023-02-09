@@ -55,4 +55,9 @@
   <ban name="Step dad" reason="200PING" accountid="STEAM_1:1:442949851" />
   <ban name="狗蛋" reason="给自己扎画皮然后变异咬人" accountid="STEAM_1:1:757541366" />
   <ban name="wss04" reason="动反应堆" accountid="STEAM_1:1:684382719" />
+  <ban name="深海船长" reason="拿了很多燃料棒" address="43.225.208.111" />
+  <ban name="深海船长" reason="拿了很多燃料棒" accountid="STEAM_1:1:753720591" />
+  <ban name="小巨人" reason="道德值非常低" accountid="STEAM_1:1:609850303" expirationtime="638113957090000000" />
+  <ban name="纯真丁一郎" reason="窒死毒剂杀人" address="101.83.121.55" />
+  <ban name="纯真丁一郎" reason="窒死毒剂杀人" accountid="STEAM_1:0:541215636" />
 </bannedplayers>
