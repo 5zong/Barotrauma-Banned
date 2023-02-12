@@ -23,7 +23,6 @@
   <ban name="你干嘛嗨嗨you" reason="乱打人" accountid="STEAM_1:0:720479607" />
   <ban name="和尚" reason="作弊" address="112.37.160.10" />
   <ban name="和尚" reason="作弊" accountid="STEAM_1:1:469858008" />
-  <ban name="福" reason="ServerMessage.BannedBy~[initiator]=麦乐鸡块" accountid="STEAM_1:1:91288449" />
   <ban name="吊打你们" reason="乱打人" address="119.13.87.234" />
   <ban name="吊打你们" reason="乱打人" accountid="STEAM_1:1:749392479" />
   <ban name="拿起R301再强大也是真的" reason="乱打人" accountid="STEAM_1:1:702618221" />
@@ -39,7 +38,7 @@
   <ban name="Takina" reason="乱动反应堆" address="113.124.90.175" />
   <ban name="Takina" reason="乱动反应堆" accountid="STEAM_1:1:158892302" />
   <ban name="thegoatslayer" reason="打人，炸反应堆，高ping老外" accountid="STEAM_1:1:554737781" />
-  <ban name="thegoatslayer" reason="傻逼" address="24.22.104.177" />
+  <ban name="thegoatslayer" reason="打人，炸反应堆，高ping老外" address="24.22.104.177" />
   <ban name="vlnny118" reason="200PING,No Chinese" accountid="STEAM_1:0:461862050" />
   <ban name="Krawly" reason="炸反应堆" accountid="STEAM_1:0:174314092" />
   <ban name="小刻" reason="乱打AI" accountid="STEAM_1:0:541267169" />
