@@ -39,6 +39,7 @@
   <ban name="Takina" reason="乱动反应堆" address="113.124.90.175" />
   <ban name="Takina" reason="乱动反应堆" accountid="STEAM_1:1:158892302" />
   <ban name="thegoatslayer" reason="打人，炸反应堆，高ping老外" accountid="STEAM_1:1:554737781" />
+  <ban name="thegoatslayer" reason="傻逼" address="24.22.104.177" />
   <ban name="vlnny118" reason="200PING,No Chinese" accountid="STEAM_1:0:461862050" />
   <ban name="Krawly" reason="炸反应堆" accountid="STEAM_1:0:174314092" />
   <ban name="小刻" reason="乱打AI" accountid="STEAM_1:0:541267169" />
@@ -64,8 +65,16 @@
   <ban name="Tysm" reason="乱动反应堆" address="112.38.97.49" />
   <ban name="Tysm" reason="乱动反应堆" accountid="STEAM_1:0:606463461" />
   <ban name="雾远邀青树丶" reason="动反应堆" accountid="STEAM_1:1:502580466" />
-  <ban name="xxx嘻嘻嘻xx" reason="动船" address="111.163.156.21" />
-  <ban name="xxx嘻嘻嘻xx" reason="动船" accountid="STEAM_1:0:615845453" />
-  <ban name="正在偷吃电弧星" reason="拿AI东西" address="103.129.252.187" />
-  <ban name="正在偷吃电弧星" reason="拿AI东西" accountid="STEAM_1:1:561726728" />
+  <ban name="xxx嘻嘻嘻xx" reason="船员出仓时乱开船" address="111.163.156.21" />
+  <ban name="xxx嘻嘻嘻xx" reason="船员出仓时乱开船" accountid="STEAM_1:0:615845453" />
+  <ban name="正在偷吃电弧星" reason="拿AI耳机、ID卡" address="103.129.252.187" />
+  <ban name="正在偷吃电弧星" reason="拿AI耳机、ID卡" accountid="STEAM_1:1:561726728" />
+  <ban name="珏颐" reason="乱打站点员掉声望经劝不理" accountid="STEAM_1:1:603571767" />
+  <ban name="月月_87" reason="乱打人" accountid="STEAM_1:0:468657491" />
+  <ban name="wt176802" reason="乱拿药，打人" accountid="STEAM_1:0:676268438" />
+  <ban name="小白" reason="乱打炮" address="183.221.18.194" />
+  <ban name="小白" reason="乱打炮" accountid="STEAM_1:0:633267532" />
+  <ban name="Daviod" reason="乱动反应堆" accountid="STEAM_1:0:565718211" />
+  <ban name="Mr_Cedar" reason="打死了人机" accountid="STEAM_1:1:538024919" />
+  <ban name="糯米团子" reason="打AI" accountid="STEAM_1:0:509662213" />
 </bannedplayers>
