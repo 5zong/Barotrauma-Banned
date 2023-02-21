@@ -76,4 +76,13 @@
   <ban name="Daviod" reason="乱动反应堆" accountid="STEAM_1:0:565718211" />
   <ban name="Mr_Cedar" reason="打死了人机" accountid="STEAM_1:1:538024919" />
   <ban name="糯米团子" reason="打AI" accountid="STEAM_1:0:509662213" />
+  <ban name="无量" reason="打安全官，引到潜艇，引完就退，不给解释" address="111.58.49.187" />
+  <ban name="无量" reason="打安全官，引到潜艇，引完就退，不给解释" accountid="STEAM_1:0:690448736" />
+  <ban name="Ranch" reason="200PING,NO Chinese" accountid="STEAM_1:0:600344884" />
+  <ban name="路人甲" reason="乱打人，打AI" address="120.192.14.15" />
+  <ban name="路人甲" reason="乱打人，打AI" accountid="STEAM_1:0:639331268" />
+  <ban name="java" reason="傻逼乱用广谱" address="124.89.232.178" />
+  <ban name="java" reason="傻逼乱用广谱" accountid="STEAM_1:0:571451822" />
+  <ban name="eaxf" reason="乱打画皮" accountid="STEAM_1:1:743389057" />
+  <ban name="虫眼35" reason="给自己扎画皮，乱咬人" accountid="STEAM_1:0:625717199" />
 </bannedplayers>
