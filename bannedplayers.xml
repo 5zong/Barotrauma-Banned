@@ -1,12 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <bannedplayers>
-  <ban name="valek123" reason="200PING,NO Chinese" accountid="STEAM_1:1:638496166" />
-  <ban name="Top Gun Maverick" reason="200PING,no Chinese" accountid="STEAM_1:0:539144800" />
-  <ban name="Dalton K." reason="200PING,NO Chinese" address="206.174.116.114" />
-  <ban name="Dalton K." reason="200PING,NO Chinese" accountid="STEAM_1:1:43113008" />
-  <ban name="грю" reason="200PING,NO Chinese" accountid="STEAM_1:0:627929501" />
-  <ban name="волосатая пиявка" reason="200PING,NO Chinese" accountid="STEAM_1:0:519417103" />
-  <ban name="дед Энигмыч" reason="200PING,NO Chinese" accountid="STEAM_1:0:561222382" />
   <ban name="WDNMD" reason="乱改反应堆" accountid="STEAM_1:0:209672972" />
   <ban name="oloof" reason="精神内鬼" accountid="STEAM_1:1:163667081" />
   <ban name="过户哥" reason="炸反应堆" address="123.232.150.92" />
@@ -18,7 +11,7 @@
   <ban name="雯静" reason="仓鼠服封禁(打人)" accountid="STEAM_1:0:102699151" />
   <ban name="KoreaHunter" reason="仓鼠服封禁(打人)" accountid="STEAM_1:0:221423648" />
   <ban name="纳税" reason="打人" accountid="STEAM_1:1:182319287" />
-  <ban name="夏树" reason="打人" accountid="STEAM_1:0:539457449" />  
+  <ban name="夏树" reason="打人" accountid="STEAM_1:0:539457449" />
   <ban name="飞腚超人" reason="拿枪打人" accountid="STEAM_1:1:594311956" />
   <ban name="你干嘛嗨嗨you" reason="乱打人" accountid="STEAM_1:0:720479607" />
   <ban name="和尚" reason="作弊" address="112.37.160.10" />
@@ -27,12 +20,10 @@
   <ban name="吊打你们" reason="乱打人" accountid="STEAM_1:1:749392479" />
   <ban name="拿起R301再强大也是真的" reason="乱打人" accountid="STEAM_1:1:702618221" />
   <ban name="spiffycondorLIVE" reason="内鬼" accountid="STEAM_1:0:151519383" />
-  <ban name="Mario (From Mario)" reason="200PING,no Chinese" accountid="STEAM_1:1:92494979" />
   <ban name="forest" reason="精神内鬼" accountid="STEAM_1:1:446945501" />
   <ban name="聪明B" reason="乱动反应堆" accountid="STEAM_1:1:424070982" />
   <ban name="巧脑袋花熱阍头喇" reason="开枪乱打人" accountid="STEAM_1:1:16505821" />
   <ban name="123" reason="内鬼" accountid="STEAM_1:1:223290001" />
-  <ban name="justin roiland" reason="200PING，No Chinese" accountid="STEAM_1:0:57319637" />
   <ban name="343507509" reason="乱动反应堆" accountid="STEAM_1:0:83658852" />
   <ban name="主角光环" reason="炸反应堆" accountid="STEAM_1:1:591736673" />
   <ban name="Takina" reason="乱动反应堆" address="113.124.90.175" />
@@ -56,7 +47,6 @@
   <ban name="wss04" reason="动反应堆" accountid="STEAM_1:1:684382719" />
   <ban name="深海船长" reason="拿了很多燃料棒" address="43.225.208.111" />
   <ban name="深海船长" reason="拿了很多燃料棒" accountid="STEAM_1:1:753720591" />
-  <ban name="小巨人" reason="道德值非常低" accountid="STEAM_1:1:609850303" expirationtime="638113957090000000" />
   <ban name="纯真丁一郎" reason="窒死毒剂杀人" address="101.83.121.55" />
   <ban name="纯真丁一郎" reason="窒死毒剂杀人" accountid="STEAM_1:0:541215636" />
   <ban name="Cykalism" reason="打AI" address="111.22.176.105" />
@@ -78,11 +68,12 @@
   <ban name="糯米团子" reason="打AI" accountid="STEAM_1:0:509662213" />
   <ban name="无量" reason="打安全官，引到潜艇，引完就退，不给解释" address="111.58.49.187" />
   <ban name="无量" reason="打安全官，引到潜艇，引完就退，不给解释" accountid="STEAM_1:0:690448736" />
-  <ban name="Ranch" reason="200PING,NO Chinese" accountid="STEAM_1:0:600344884" />
   <ban name="路人甲" reason="乱打人，打AI" address="120.192.14.15" />
   <ban name="路人甲" reason="乱打人，打AI" accountid="STEAM_1:0:639331268" />
   <ban name="java" reason="傻逼乱用广谱" address="124.89.232.178" />
   <ban name="java" reason="傻逼乱用广谱" accountid="STEAM_1:0:571451822" />
   <ban name="eaxf" reason="乱打画皮" accountid="STEAM_1:1:743389057" />
   <ban name="虫眼35" reason="给自己扎画皮，乱咬人" accountid="STEAM_1:0:625717199" />
+  <ban name="Lavin Gate" reason="老外有问题" accountid="STEAM_1:0:921190364" />
+  <ban name="洛" reason="乱扎画皮卵" accountid="STEAM_1:1:956908020" />
 </bannedplayers>
