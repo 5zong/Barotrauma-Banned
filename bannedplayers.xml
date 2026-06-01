@@ -76,4 +76,10 @@
   <ban name="虫眼35" reason="给自己扎画皮，乱咬人" accountid="STEAM_1:0:625717199" />
   <ban name="Lavin Gate" reason="老外有问题" accountid="STEAM_1:0:921190364" />
   <ban name="洛" reason="乱扎画皮卵" accountid="STEAM_1:1:956908020" />
+  <ban name="小小懒鱼" reason="ServerMessage.BannedBy~[initiator]=第五宗主" accountid="STEAM_1:1:220744549" />
+  <ban name="王伯伦" reason="ServerMessage.BannedBy~[initiator]=第五宗主" address="113.25.158.50" />
+  <ban name="王伯伦" reason="ServerMessage.BannedBy~[initiator]=第五宗主" accountid="UNAUTHENTICATED_13245051449" />
+  <ban name="FRESH" reason="200PING" accountid="STEAM_1:1:58212698" />
+  <ban name="alexeysupere" reason="200PING" accountid="STEAM_1:0:457502792" />
+  <ban name="南迪" reason="ServerMessage.BannedBy~[initiator]=布丁不叮" accountid="STEAM_1:1:595389035" />
 </bannedplayers>
