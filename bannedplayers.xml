@@ -77,9 +77,12 @@
   <ban name="Lavin Gate" reason="老外有问题" accountid="STEAM_1:0:921190364" />
   <ban name="洛" reason="乱扎画皮卵" accountid="STEAM_1:1:956908020" />
   <ban name="小小懒鱼" reason="ServerMessage.BannedBy~[initiator]=第五宗主" accountid="STEAM_1:1:220744549" />
-  <ban name="王伯伦" reason="ServerMessage.BannedBy~[initiator]=第五宗主" address="113.25.158.50" />
-  <ban name="王伯伦" reason="ServerMessage.BannedBy~[initiator]=第五宗主" accountid="UNAUTHENTICATED_13245051449" />
+  <ban name="王伯伦" reason="拔ID卡" address="113.25.158.50" />
+  <ban name="王伯伦" reason="拔ID卡" accountid="UNAUTHENTICATED_13245051449" />
   <ban name="FRESH" reason="200PING" accountid="STEAM_1:1:58212698" />
   <ban name="alexeysupere" reason="200PING" accountid="STEAM_1:0:457502792" />
-  <ban name="南迪" reason="ServerMessage.BannedBy~[initiator]=布丁不叮" accountid="STEAM_1:1:595389035" />
+  <ban name="南迪" reason="炸反应堆" accountid="STEAM_1:1:595389035" />
+  <ban name="jack" reason="炸反应堆" accountid="STEAM_1:1:506381532" />
+  <ban name="喵喵厨" reason="离线时杀AI" address="61.155.128.89" />
+  <ban name="喵喵厨" reason="离线时杀AI" accountid="STEAM_1:1:242213213" />
 </bannedplayers>
