@@ -86,4 +86,8 @@
   <ban name="喵喵厨" reason="离线时杀AI" address="61.155.128.89" />
   <ban name="喵喵厨" reason="离线时杀AI" accountid="STEAM_1:1:242213213" />
   <ban name="鸡鸡复鸡鸡" reason="乱用药" accountid="STEAM_1:1:708395176" />
+  <ban name="TSYD" reason="ping值过高" accountid="STEAM_1:0:740844652" />
+  <ban name="Helium_11 氦" reason="ping过高" accountid="STEAM_1:1:772017827" />
+  <ban name="Helium_11 氦" reason="ping过高" accountid="STEAM_1:0:626507063" />
+  <ban name="76561199049479392" reason="ServerMessage.BannedBy~[initiator]=64" accountid="STEAM_1:0:544606832" />
 </bannedplayers>
